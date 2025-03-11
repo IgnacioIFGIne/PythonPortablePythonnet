@@ -1,4 +1,5 @@
-print(f"hello from portable winpython!!")
+print(f"hello from portable winpython!")
+
 
 #importamos clr para el .net
 import clr;
