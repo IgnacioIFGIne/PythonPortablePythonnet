@@ -14,5 +14,8 @@ if not exist %PYTHON_PORTABLE% (
 :: Ejecuta el script Python usando Python Portable
 %PYTHON_PORTABLE% script.py
 
+::Ejecuta el script de python que nos indica si son accesibles las DLLs de revit 
+:: %PYTHON_PORTABLE% scriptRev.py
+
 :: Pausa para ver los resultados
 pause
